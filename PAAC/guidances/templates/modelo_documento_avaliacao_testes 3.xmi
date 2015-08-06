@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BaLgRFWqEGziT5zFSV8rPQ" name="new_template,_ufN_oKS7EeS9f6Laj9AKgg" guid="-BaLgRFWqEGziT5zFSV8rPQ">
+  <attachments>resources/Documento_Avaliacao_Testes.doc</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

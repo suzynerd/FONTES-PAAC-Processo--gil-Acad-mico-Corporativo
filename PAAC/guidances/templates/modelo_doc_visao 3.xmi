@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nLMdJ9gcSllV7gDYEo5D0g" name="new_template,_YUjskHubEd64wKJP97lW7A" guid="-nLMdJ9gcSllV7gDYEo5D0g">
+  <attachments>resources/visao_geral.doc</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

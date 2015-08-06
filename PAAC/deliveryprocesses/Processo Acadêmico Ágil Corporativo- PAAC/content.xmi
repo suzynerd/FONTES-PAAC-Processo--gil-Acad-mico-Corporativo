@@ -1330,22 +1330,4 @@ interface.</keyConsiderations>
     &lt;/li>&#xD;
 &lt;/ul></purpose>
   </org.eclipse.epf.uma:DeliveryProcessDescription>
-  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-a-yb5LO3DwnfVSo6vnrmPQ" name="implementador_testador,_3_ZGUDsREeW3s96_kLGl2A" guid="-a-yb5LO3DwnfVSo6vnrmPQ">
-    <refinedDescription>&lt;p>&#xD;
-    De uma forma geral, o Implementador tem a função de implementar e testar componentes de um subsistema isolado. Em&#xD;
-    processos prescritivos como o RUP, as funções de implementação, integração e testes são desempenhadas por papéis&#xD;
-    separados. A proposta para o PAS, porém,&amp;nbsp;é que o Implementador acumule funções de implementação, integração e&#xD;
-    testes do sistema.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Dessa forma, após implementar os componentes, o Implementador, no PAS, combina os componentes para criar um build. Além&#xD;
-    disso, esse papel deve conduzir os testes necessários e registrar seus resultados.&amp;nbsp;&#xD;
-&lt;/p></refinedDescription>
-  </org.eclipse.epf.uma:DescriptorDescription>
-  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ISind0n8yScw4Ll3jHx1Xw" name="arquiteto,_e8MSIDsSEeW3s96_kLGl2A" guid="-ISind0n8yScw4Ll3jHx1Xw">
-    <refinedDescription>&lt;p>&#xD;
-    O Arquiteto&amp;nbsp;estabelece a estrutura geral de cada visão da arquitetura: a decomposição da visão, o agrupamento dos&#xD;
-    elementos e as interfaces entre esses principais agrupamentos.&amp;nbsp;&#xD;
-&lt;/p></refinedDescription>
-  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>
